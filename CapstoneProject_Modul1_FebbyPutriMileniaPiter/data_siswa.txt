@@ -1,0 +1,9 @@
+Benedict|2401|26|Bandung|Pasteur|100
+Anthony|2402|23|Bali|Badung|100
+Jimmy|2403|19|Banten|BSD|100
+Daphne|2405|21|Bandung|Ciumbuleuit|88
+Eloise|2406|23|Medan|Tanah|None
+Gunther|2408|28|Jakarta|Setiabudi|50
+Lola|2409|22|Jakarta|Kemang|55
+Annie|2413|18|Padang|Veteran|None
+Lola|2414|20|Bali|Badung|None
